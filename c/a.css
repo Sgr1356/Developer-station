@@ -1,0 +1,22 @@
+.dropdown-item {
+    color: black;
+}
+/* unvisited link */
+ a:link {
+    color: red;
+}
+
+/* visited link */
+a:visited {
+    color: purple;
+}
+
+/* mouse over link */
+a:hover {
+    color: green;
+}
+
+/* selected link */
+a:active {
+    color: blue;
+}
